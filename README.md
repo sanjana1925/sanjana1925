@@ -65,17 +65,6 @@ alt="Typing Animation"/>
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white)
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=sanjana1925&theme=default&hide_border=true"
-height="165"/>  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sanjana1925&theme=default&hide_border=true&include_all_commits=true&count_private=false&layout=compact"
-height="165"/>
-
-</div>
-
----
 
 <div align="center">
 
