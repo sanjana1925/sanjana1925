@@ -69,13 +69,8 @@ alt="Typing Animation"/>
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=sanjana1925&theme=default&hide_border=true&include_all_commits=true&count_private=false"
-height="165"/>
-
 <img src="https://streak-stats.demolab.com/?user=sanjana1925&theme=default&hide_border=true"
-height="165"/>
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sanjana1925&theme=default&hide_border=true&include_all_commits=true&count_private=false&layout=compact"
+height="165"/>  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sanjana1925&theme=default&hide_border=true&include_all_commits=true&count_private=false&layout=compact"
 height="165"/>
 
 </div>
